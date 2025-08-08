@@ -50,7 +50,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Next.js 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nextjs-crud-app.git
+git clone (https://github.com/Mithun-Dilshan/next-js-project.git)
 cd nextjs-crud-app
 ```
 
@@ -259,30 +259,9 @@ Opens a visual interface at `http://localhost:5555` to browse and edit your data
 5. **Frontend**: Update pages in `app/`
 6. **Testing**: Use Prisma Studio or Postman
 
-## 🚢 Deployment
 
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm install -g vercel
 
-# Deploy
-vercel --prod
-```
 
-### Other Platforms
-- **Railway** - PostgreSQL + Next.js hosting
-- **PlanetScale** - Serverless MySQL alternative
-- **Supabase** - PostgreSQL with real-time features
-- **Docker** - Containerized deployment
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -294,15 +273,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Prisma](https://www.prisma.io/) - Next-generation ORM
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [PostgreSQL](https://www.postgresql.org/) - Advanced open source database
-- [Vercel](https://vercel.com/) - Deployment platform
+
 
 ## 📞 Support
 
 If you have any questions or need help:
 
-1. Check the [Issues](https://github.com/yourusername/nextjs-crud-app/issues) page
-2. Create a new issue with detailed information
-3. Review the documentation links above
+
 
 ---
 
